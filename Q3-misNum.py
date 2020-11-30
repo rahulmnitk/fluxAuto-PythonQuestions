@@ -1,6 +1,4 @@
 iList = [1, 3, 4, 6, 99]
-
-# ordList = iList.sort()
 refList = list(range(0, int(iList[-1]) + 1))
 
 misNum = []
