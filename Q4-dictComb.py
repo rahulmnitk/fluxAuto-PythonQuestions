@@ -1,5 +1,6 @@
 # Program to list all the combinations 
-# of the elements from a dictionary
+# of the elements from a dictionary 
+# using itertools module
 import itertools
 
 # Function to form pairs of elements 
