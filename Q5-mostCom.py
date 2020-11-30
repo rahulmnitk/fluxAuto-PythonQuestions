@@ -8,6 +8,6 @@ words = [
 ]
 
 counts = Counter(words)
-n = input("Enter number of words: ")
+n = int(input("Enter number of words: "))
 n_mostCom = counts.most_common(n)
 print(n_mostCom)
